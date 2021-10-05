@@ -9,12 +9,14 @@ const Like = (props) => {
     : (src =
         "https://img.icons8.com/external-those-icons-fill-those-icons/24/000000/external-like-feedback-those-icons-fill-those-icons.png");
 
-  <img
-    onClick={props.onClick}
-    style={{ cursor: "pointer" }}
-    src={src}
-    alt="Like button"
-  />;
+  return (
+    <img
+      onClick={props.onClick}
+      style={{ cursor: "pointer" }}
+      src={src}
+      alt="Like button"
+    />
+  );
 };
 
 export default Like;
