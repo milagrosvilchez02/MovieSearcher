@@ -1,9 +1,9 @@
 import React from "react";
 
-const Like = (props) => {
+const Like = ({ liked, onClick }) => {
   let src;
 
-  !props.liked
+  !liked
     ? (src =
         "https://img.icons8.com/external-those-icons-lineal-those-icons/24/000000/external-like-feedback-those-icons-lineal-those-icons.png")
     : (src =
@@ -11,7 +11,7 @@ const Like = (props) => {
 
   return (
     <img
-      onClick={props.onClick}
+      onClick={onClick}
       style={{ cursor: "pointer" }}
       src={src}
       alt="Like button"
