@@ -7,6 +7,8 @@ import { getGenres } from "../services/fakeGenreService";
 import { paginate } from "../utils/paginate";
 import _ from "lodash";
 
+// The component that owns a piece of the state, should be the one modifying it.
+
 class Movies extends Component {
   state = {
     movies: [],
