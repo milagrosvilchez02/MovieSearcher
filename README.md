@@ -1,19 +1,21 @@
-## MOVIE SEARCHER
+# MOVIE SEARCHER
 
-# Events
+## Events
 
-# Conditional rendering
+## Conditional rendering
 
-# Pagination
+## Pagination
 
-# Filtering
+## Filtering
 
-# Sorting
+## Sorting
 
-# Bootstrap
+## Bootstrap
 
-# Fontawesome
+## Fontawesome
 
-# Routing
+## Routing
 
-# Forms
+## Forms
+
+## Joi library
