@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MovieSearcher/static/css/main.fda84b52.chunk.css",
+    "main.js": "/MovieSearcher/static/js/main.dae8e2be.chunk.js",
+    "main.js.map": "/MovieSearcher/static/js/main.dae8e2be.chunk.js.map",
+    "runtime-main.js": "/MovieSearcher/static/js/runtime-main.d9e9b42b.js",
+    "runtime-main.js.map": "/MovieSearcher/static/js/runtime-main.d9e9b42b.js.map",
+    "static/css/2.8f314693.chunk.css": "/MovieSearcher/static/css/2.8f314693.chunk.css",
+    "static/js/2.d6bf7819.chunk.js": "/MovieSearcher/static/js/2.d6bf7819.chunk.js",
+    "static/js/2.d6bf7819.chunk.js.map": "/MovieSearcher/static/js/2.d6bf7819.chunk.js.map",
+    "index.html": "/MovieSearcher/index.html",
+    "static/css/2.8f314693.chunk.css.map": "/MovieSearcher/static/css/2.8f314693.chunk.css.map",
+    "static/css/main.fda84b52.chunk.css.map": "/MovieSearcher/static/css/main.fda84b52.chunk.css.map",
+    "static/js/2.d6bf7819.chunk.js.LICENSE.txt": "/MovieSearcher/static/js/2.d6bf7819.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/MovieSearcher/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e9b42b.js",
+    "static/css/2.8f314693.chunk.css",
+    "static/js/2.d6bf7819.chunk.js",
+    "static/css/main.fda84b52.chunk.css",
+    "static/js/main.dae8e2be.chunk.js"
+  ]
+}
